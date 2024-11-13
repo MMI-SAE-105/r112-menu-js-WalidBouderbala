@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Bouderbala
+- prénom : Walid
+- URL Netlify : https://statuesque-sfogliatella-98076b.netlify.app
 
 # Travail
 
